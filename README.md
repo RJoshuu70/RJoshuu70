@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" alt="Banner" width="100%" />
+<img src="./banner.gif" alt="Banner" width="100%" />
 
 # Hi, I'm Josh
 
