@@ -48,7 +48,7 @@ data class Josh(
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" alt="mobile" />
 <br/>
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 
 **Frontend**
 
@@ -62,8 +62,8 @@ data class Josh(
 
 <img src="https://skillicons.dev/icons?i=figma,git,github,docker,vercel&theme=dark" alt="tools" />
 <br/>
-![Maze](https://img.shields.io/badge/Maze-111111?style=flat-square)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+<img src="https://img.shields.io/badge/Maze-111111?style=flat-square" alt="Maze" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 
 ## GitHub Stats
 
